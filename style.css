@@ -1,6 +1,9 @@
-.body {
-    color:black
-}
+body {
+    color:white;
+    background-color:black;
+      font-family: sans-serif;
+      padding: 0;
+  }
 
 .HomeUpperText {
     color:white;
