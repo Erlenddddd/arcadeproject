@@ -83,27 +83,6 @@ body {
   opacity: 1!important;
 }
 
-@import url(//fonts.googleapis.com/css?family=Comfortaa);
-* {
-  font-family: 'Comfortaa', comfortaa;
-}
-body {   
-  --background-back:#f2f3f5;
-  --main-text-color:#000000;
-  --goldorblue-text-color:dodgerblue;
-  --goldorblue-text-color2:gold;
-    background-color:#f2f2f2;
-    overflow-x:none;
-    margin:0;
-    padding:0;
-    background:var(--background-back);
-    background-repeat: repeat;
-    background-size: auto;
-  --icon-color:invert(0);
-  --icon-color2:invert(1);
-  --filtervar:brightness(0) invert(1);
-}
-
 body.dark-theme {
 --background-back:#202020 repeat top left;
 --main-text-color:#ffffff;
