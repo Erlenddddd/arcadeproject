@@ -43,8 +43,16 @@ body {
   flex: 1;
 }
 
-.article-box-text:hover .hoverinfo { display: none; } {
+.hoverinfo2 {
+  display: none;
+}
 
+.article-box-text:hover .hoverinfo1 {
+   display: none;
+}
+
+.article-box-text:hover .hoverinfo1 {
+  display: none;
 }
 
 
