@@ -22,6 +22,11 @@ body {
   box-shadow: rgba(50, 50, 50, 0.74902) 10px 5px 8px -2px;
 }
 
+.article-box:hover {
+  border: 1px solid transparent;
+  box-shadow: rgba(50, 50, 50, 0.74902) 13px 8px 18px -2px;
+}
+
 .article-image {
   padding: 3px;
   border: thick solid black;
@@ -29,4 +34,20 @@ body {
   width: 250px;
   display: inline-block;
   float: left;
+}
+
+.article-box-text {
+  margin: 20px;
+  height: 250px;
+  width: 450px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  flex: 1;
+}
+
+.article-box-text p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
 }
