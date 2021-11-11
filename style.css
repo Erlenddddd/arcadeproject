@@ -493,4 +493,9 @@ flex-wrap:wrap;
     margin-bottom: 10px;
   }
 
+.overlay span {
+  color:red;
+}
+
+
 }
