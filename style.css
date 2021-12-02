@@ -4,18 +4,18 @@ html {
 
 body {
     color:white;
-    background-color:gray;
+    background-color:#000000;
       font-family: sans-serif;
       padding: 0;
   }
 
 
       .HomeUpperText {
-          font-weight:lighter;
+          font-weight:bolder;
           text-align:center;
           margin-top:70px;
           font-size:30px;
-          color:red; }
+          color:rgb(255, 229, 111); }
 
     .projectbox1 {
 display:flex;
