@@ -63,6 +63,8 @@ flex-wrap:wrap;
   flex-wrap:wrap;
   background-color:var(--main-text-color);
   border-radius:30px;
+  border:black;
+  transition: border 1s ease; 
 }
 
 .overlay {
