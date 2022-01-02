@@ -63,7 +63,7 @@ flex-wrap:wrap;
   flex-wrap:wrap;
   background-color:var(--main-text-color);
   border-radius:30px;
-  border:black;
+  border: solid 3px #000000;
   transition: border 0.6s ease; 
 }
 
