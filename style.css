@@ -95,6 +95,10 @@ flex-wrap:wrap;
   opacity: 1;
 }
 
+.container:hover {
+  border:#EB5757
+}
+
 
 .parent {
   display:flex;
