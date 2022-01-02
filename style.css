@@ -64,7 +64,7 @@ flex-wrap:wrap;
   background-color:var(--main-text-color);
   border-radius:30px;
   border:black;
-  transition: border 1s ease; 
+  transition: border 0.6s ease; 
 }
 
 .overlay {
@@ -99,7 +99,7 @@ flex-wrap:wrap;
 
 .container:hover {
   border: solid 3px #fee46f;
-  transition: border 1s ease; 
+  transition: border 0.6s ease; 
 }
 
 
