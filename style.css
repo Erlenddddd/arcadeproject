@@ -96,7 +96,7 @@ flex-wrap:wrap;
 }
 
 .container:hover {
-  border: solid 3px rgb(255, 229, 111);
+  border: solid 3px #fee46f;
   transition: border 1s ease; 
 }
 
