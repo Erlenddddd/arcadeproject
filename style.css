@@ -97,6 +97,7 @@ flex-wrap:wrap;
 
 .container:hover {
   border: solid 3px #EB5757; 
+  transition: border 0.2s ease; 
 }
 
 
