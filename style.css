@@ -96,7 +96,7 @@ flex-wrap:wrap;
 }
 
 .container:hover {
-  border:#EB5757
+  border: solid 3px #EB5757; 
 }
 
 
